@@ -1,0 +1,4 @@
+include ':dnpphotoprintlib-release'
+include ':dnpphotocolorcnv-release'
+include ':app'
+rootProject.name = "test2"
