@@ -11,3 +11,4 @@
 # Project exclude paths
 /dnpphotocolorcnv-release/build/
 /dnpphotoprintlib-release/build/
+usbSerialForAndroid/build/
