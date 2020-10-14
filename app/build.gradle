@@ -31,9 +31,14 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.0.1'
     implementation project(path: ':dnpphotocolorcnv-release')
     implementation project(path: ':dnpphotoprintlib-release')
+    implementation project(path: ':usbSerialForAndroid')
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
+    //串口调试  https://blog.csdn.net/xlazydog/article/details/99458381
+    //implementation 'com.github.mik3y:usb-serial-for-android:Tag'
+
 
 
 

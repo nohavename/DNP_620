@@ -1,3 +1,4 @@
+include ':usbSerialForAndroid'
 include ':dnpphotoprintlib-release'
 include ':dnpphotocolorcnv-release'
 include ':app'
